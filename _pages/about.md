@@ -6,7 +6,7 @@ subtitle: Claudio Perez-Leighton
 
 profile:
   align: right
-  image: placeholder.jpg
+  image: Claudio-Perez-L.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Facultad de Ciencias Biológicas,</p>
