@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: NBO Lab
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Claudio Perez-Leighton
 
 profile:
   align: right
