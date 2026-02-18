@@ -22,10 +22,7 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+
 ---
 
 El objetivo de nuestra investigación es comprender los mecanismos neuroendocrinos que regulan el consumo de alimentos y la relevancia de estas conductas en desórdenes metabólicos como la obesidad. En nuestro grupo tenemos dos líneas de investigación:  
@@ -38,7 +35,6 @@ El objetivo de nuestra investigación es comprender los mecanismos neuroendocrin
   Analizamos los mecanismos que median estos efectos para entender
   mejor cómo estos neuropéptidos y hormonas influyen en el 
   comportamiento alimentario y el balance energético. 
-
   2. En sujetos humanos, hemos desarrollado métodos para evaluar 
   la resolución del conflicto en la elección entre alimentos
   saludables y aquellos no saludables pero más sabrosos, y cuáles
