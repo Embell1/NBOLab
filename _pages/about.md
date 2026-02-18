@@ -10,8 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Facultad de Ciencias Biológicas,</p>
-    <p>Pontificia Universidad Católica</p>
-    <p>de Chile</p>
+    <p>Pontificia Universidad Católica de Chile</p>
     <p>Departamento de Fisiología</p>
     <p> Mail: ceperez@uc.cl<p>
 
