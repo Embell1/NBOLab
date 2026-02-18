@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: People
+title: people
 description: members of the lab or group
 nav: true
 nav_order: 7
@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: left
     image: placeholder.jpg
-    content: about_claudio.md
+    content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
       Claudio Perez-Leighton
@@ -19,18 +19,10 @@ profiles:
       ceperez@uc.cl
   - align: left
     image: placeholder.jpg
-    content: about_francisco.md
+    content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
       Francisco Bravo
       Lab Manager
       lab_cpl@bio.puc.cl
-  - align: left
-    image: placeholder.jpg
-    content: about_maxi.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      Carlos Espinoza
-      PhD Student
-      carlos.espinoza@uc.cl
 ---
