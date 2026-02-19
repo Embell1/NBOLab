@@ -3,6 +3,7 @@ layout: profiles
 permalink: /people/
 title: Integrantes
 description: members of the lab or group
+display_categories: [Investigador Principal, Lab Manager, Estudiantes de Postgrado, Estudiantes de Pregrado]
 nav: true
 nav_order: 7
 
